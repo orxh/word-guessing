@@ -1,4 +1,4 @@
-data/
+data/glove.42B.300d.txt
 test.ipynb
 __pycache__/
 .mypy_cache/
