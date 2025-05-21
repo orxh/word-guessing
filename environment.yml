@@ -1,0 +1,11 @@
+name: word-guesser
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - numpy
+    - scikit-learn
+    - nltk
+    - tqdm
